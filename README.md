@@ -1,0 +1,2 @@
+# MyFirstRepoOnGH
+delete after use
